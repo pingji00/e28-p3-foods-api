@@ -119,17 +119,17 @@
 },
 {
     "id": "8",
-    "name": "Hummus",
-    "nutrition100g": {
-        "energy": 1091,
-        "protein": 5.6,
-        "fat": 19.2,
-        "saturated-fat": 2,
-        "carbohydrate": 16.8,
-        "sugars": 0.6,
-        "sodium": 347
+    "name": "Cucumber",
+    "nutrition-per-100g": {
+        "energy": 65,
+        "carbohydrate": 3.63,
+        "sugars": 1.67,
+        "dietary-fibre": 0.5,
+        "fat": 0.11,
+        "protein": 0.65,
+        "vitamin-k": 16.4
     },
-    "categories": ["legume", "snack"]
+    "categories": ["vegetable"]
 },
 {
     "id": "9",
@@ -340,20 +340,6 @@
         "phosphorus": 120,
         "potassium": 448,
         "zinc": 1.1
-    },
-    "categories": ["vegetable"]
-},
-{
-    "id": "20",
-    "name": "Cucumber",
-    "nutrition-per-100g": {
-        "energy": 65,
-        "carbohydrate": 3.63,
-        "sugars": 1.67,
-        "dietary-fibre": 0.5,
-        "fat": 0.11,
-        "protein": 0.65,
-        "vitamin-k": 16.4
     },
     "categories": ["vegetable"]
 }
