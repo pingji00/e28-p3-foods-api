@@ -235,31 +235,6 @@
     "categories": ["vegetable", "leafy green vegetable", "superfood"]
 },
 {
-    "id": "14",
-    "name": "Baby Spinach",
-    "nutrition100g": {
-        "energy": 97,
-        "carbohydrate": 3.6,
-        "sugars": 0.4,
-        "dietary-fibre": 2.2,
-        "fat": 0.4,
-        "protein": 2.9,
-        "vitamin-a": 469,
-        "vitamin-b2": 0.189,
-        "vitamin-b6": 0.195,
-        "vitamin-b9": 0.194,
-        "vitamin-c": 28,
-        "vitamin-e": 2,
-        "vitamin-k": 483,
-        "calcium": 99,
-        "iron": 2.7,
-        "magnesium": 79,
-        "manganese": 0.897,
-        "potassium": 558
-    },
-    "categories": ["vegetable", "leafy green vegetable"]
-},
-{
     "id": "15",
     "name": "Bok Choy",
     "nutrition100g": {
